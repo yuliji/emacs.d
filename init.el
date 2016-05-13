@@ -125,6 +125,8 @@
   (require-package 'osx-location))
 (require-package 'regex-tool)
 
+(require-package 'highlight-indentation)
+
 ;;----------------------------------------------------------------------------
 ;; Allow access from emacsclient
 ;;----------------------------------------------------------------------------
