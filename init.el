@@ -127,6 +127,9 @@
 
 (require-package 'highlight-indentation)
 
+
+(require-package 'neotree)
+
 ;;----------------------------------------------------------------------------
 ;; Allow access from emacsclient
 ;;----------------------------------------------------------------------------
