@@ -130,7 +130,7 @@
 
 (require-package 'neotree)
 
-(require-package 'company-jedi)
+(require 'init-company-jedi)
 
 
 ;;----------------------------------------------------------------------------
