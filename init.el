@@ -129,6 +129,8 @@
 
 
 (require-package 'neotree)
+(require-package 'projectile)
+(require-package 'yasnippet)
 
 (require 'init-company-jedi)
 

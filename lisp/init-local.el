@@ -3,4 +3,5 @@
 
 (setq-default c-basic-offset 4)
 
+(add-to-list 'yas-snippet-dirs "/Users/yuliji/code/yasnippet/snippets")
 (provide 'init-local)
