@@ -130,8 +130,9 @@
 
 (require-package 'neotree)
 (require-package 'projectile)
-(require-package 'yasnippet)
+;;(require-package 'yasnippet)
 
+(require 'init-yasnippet)
 (require 'init-company-jedi)
 
 
